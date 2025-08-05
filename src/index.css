@@ -439,7 +439,7 @@ header .banner-slide .right-side img:hover {
     display: inline;
   }
   
-  .logo {
+ .logo {
     font-size: 0.5rem; /* Reduz o tamanho da logo */
     margin-left: 0; /* Ajusta a margem para melhor alinhamento */
   }
@@ -457,8 +457,6 @@ header .banner-slide .right-side img:hover {
   .logo span {
     font-size: 1rem; /* Diminui o tamanho do texto secundário */
   }
-
-
 
 }
 
@@ -481,7 +479,7 @@ header .banner-slide .right-side img:hover {
     padding: 0;
   }
 
-  .logo {
+ .logo {
     font-size: 1.2rem; /* Reduz o tamanho da logo */
     margin-left: 0; /* Ajusta a margem para melhor alinhamento */
   }

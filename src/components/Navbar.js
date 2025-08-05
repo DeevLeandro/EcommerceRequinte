@@ -55,7 +55,7 @@ export default function Navbar() {
         <Link to="/" onClick={handleHomeClick}>
         <h1 className="logo" style={{ visibility: location.pathname === "/Produto" ? "hidden" : "visible" }}>
           <img 
-             src="/images/LOGO.png" 
+             src="/images/Logo.png"
              alt="Ofertas de produtos" 
              className="responsive-img" 
               />
